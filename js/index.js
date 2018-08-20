@@ -1,6 +1,6 @@
 /* ---- particles.js config ---- */
 
-particlesJS("aa_particles", {
+particlesJS("particles", {
   "particles": {
     "number": {
       "value": 80,
